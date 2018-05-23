@@ -1,0 +1,97 @@
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                 EMAIL                     PHONE_NUMBER         HIRE_DATE JOB_ID         SALARY COMMISSION_PCT MANAGER_ID DEPARTMENT_ID
+----------- -------------------- ------------------------- ------------------------- -------------------- --------- ---------- ---------- -------------- ---------- -------------
+        197 Kevin                Feeney                    KFEENEY                   650.507.9822         06/05/23  SH_CLERK         3000                       124            50 
+
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                 EMAIL                     PHONE_NUMBER         HIRE_DATE JOB_ID         SALARY COMMISSION_PCT MANAGER_ID DEPARTMENT_ID
+----------- -------------------- ------------------------- ------------------------- -------------------- --------- ---------- ---------- -------------- ---------- -------------
+        201 Michael              Hartstein                 MHARTSTE                  515.123.5555         04/02/17  MK_MAN          13000                       100            20 
+
+anonymous block completed
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                 EMAIL                     PHONE_NUMBER         HIRE_DATE JOB_ID         SALARY COMMISSION_PCT MANAGER_ID DEPARTMENT_ID
+----------- -------------------- ------------------------- ------------------------- -------------------- --------- ---------- ---------- -------------- ---------- -------------
+        321 MIROSLAW             KOWALSKI                  KFEENEY                   650.507.9822         06/05/23  SH_CLERK         3000                       124            50 
+
+anonymous block completed
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                 EMAIL                     PHONE_NUMBER         HIRE_DATE JOB_ID         SALARY COMMISSION_PCT MANAGER_ID DEPARTMENT_ID
+----------- -------------------- ------------------------- ------------------------- -------------------- --------- ---------- ---------- -------------- ---------- -------------
+        321 MIROSLAW             KOWALSKI                  KFEENEY                   650.507.9822         06/05/23  SH_CLERK         3000                       124            50 
+        322 DOMYSLNY_imie        DOMYSLNY_nazwisko         KFEENEY                   650.507.9822         06/05/23  SH_CLERK         3000                       100            20 
+
+anonymous block completed
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                 EMAIL                     PHONE_NUMBER         HIRE_DATE JOB_ID         SALARY COMMISSION_PCT MANAGER_ID DEPARTMENT_ID
+----------- -------------------- ------------------------- ------------------------- -------------------- --------- ---------- ---------- -------------- ---------- -------------
+        321 MIROSLAW             KOWALSKI                  KFEENEY                   650.507.9822         06/05/23  SH_CLERK         3000                       124            50 
+        322 DOMYSLNY_imie        DOMYSLNY_nazwisko         KFEENEY                   650.507.9822         06/05/23  SH_CLERK         3000                       100            20 
+        323 MIROSLAW             KOWALSKI                  MHARTSTE                  515.123.5555         04/02/17  MK_MAN          13000                       124            50 
+
+anonymous block completed
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                 EMAIL                     PHONE_NUMBER         HIRE_DATE JOB_ID         SALARY COMMISSION_PCT MANAGER_ID DEPARTMENT_ID
+----------- -------------------- ------------------------- ------------------------- -------------------- --------- ---------- ---------- -------------- ---------- -------------
+        321 MIROSLAW             KOWALSKI                  KFEENEY                   650.507.9822         06/05/23  SH_CLERK         3000                       124            50 
+        322 DOMYSLNY_imie        DOMYSLNY_nazwisko         KFEENEY                   650.507.9822         06/05/23  SH_CLERK         3000                       100            20 
+        323 MIROSLAW             KOWALSKI                  MHARTSTE                  515.123.5555         04/02/17  MK_MAN          13000                       124            50 
+        324 MIROSLAW             KOWALSKI                  KFEENEY                   650.507.9822         06/05/23  SH_CLERK         3000                       100            50 
+
+anonymous block completed
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                 EMAIL                     PHONE_NUMBER         HIRE_DATE JOB_ID         SALARY COMMISSION_PCT MANAGER_ID DEPARTMENT_ID
+----------- -------------------- ------------------------- ------------------------- -------------------- --------- ---------- ---------- -------------- ---------- -------------
+        321 MIROSLAW             KOWALSKI                  KFEENEY                   650.507.9822         06/05/23  SH_CLERK         3000                       124            50 
+        322 DOMYSLNY_imie        DOMYSLNY_nazwisko         KFEENEY                   650.507.9822         06/05/23  SH_CLERK         3000                       100            20 
+        323 MIROSLAW             KOWALSKI                  MHARTSTE                  515.123.5555         04/02/17  MK_MAN          13000                       124            50 
+        324 MIROSLAW             KOWALSKI                  KFEENEY                   650.507.9822         06/05/23  SH_CLERK         3000                       100            50 
+        325 MIROSLAW             KOWALSKI                  KFEENEY                   650.507.9822         06/05/23  SH_CLERK         3000                       124            20 
+
+anonymous block completed
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                 EMAIL                     PHONE_NUMBER         HIRE_DATE JOB_ID         SALARY COMMISSION_PCT MANAGER_ID DEPARTMENT_ID
+----------- -------------------- ------------------------- ------------------------- -------------------- --------- ---------- ---------- -------------- ---------- -------------
+        321 MIROSLAW             KOWALSKI                  KFEENEY                   650.507.9822         06/05/23  SH_CLERK         3000                       124            50 
+        322 DOMYSLNY_imie        DOMYSLNY_nazwisko         KFEENEY                   650.507.9822         06/05/23  SH_CLERK         3000                       100            20 
+        323 MIROSLAW             KOWALSKI                  MHARTSTE                  515.123.5555         04/02/17  MK_MAN          13000                       124            50 
+        324 MIROSLAW             KOWALSKI                  KFEENEY                   650.507.9822         06/05/23  SH_CLERK         3000                       100            50 
+        325 MIROSLAW             KOWALSKI                  KFEENEY                   650.507.9822         06/05/23  SH_CLERK         3000                       124            20 
+        326 MIROSLAW             KOWALSKI                  KFEENEY                   650.507.9822         06/05/23  MK_MAN          12000                       124            50 
+
+ 6 rows selected 
+
+anonymous block completed
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                 EMAIL                     PHONE_NUMBER         HIRE_DATE JOB_ID         SALARY COMMISSION_PCT MANAGER_ID DEPARTMENT_ID
+----------- -------------------- ------------------------- ------------------------- -------------------- --------- ---------- ---------- -------------- ---------- -------------
+        321 MIROSLAW             KOWALSKI                  KFEENEY                   650.507.9822         06/05/23  SH_CLERK         3000                       124            50 
+        322 DOMYSLNY_imie        DOMYSLNY_nazwisko         KFEENEY                   650.507.9822         06/05/23  SH_CLERK         3000                       100            20 
+        323 MIROSLAW             KOWALSKI                  MHARTSTE                  515.123.5555         04/02/17  MK_MAN          13000                       124            50 
+        324 MIROSLAW             KOWALSKI                  KFEENEY                   650.507.9822         06/05/23  SH_CLERK         3000                       100            50 
+        325 MIROSLAW             KOWALSKI                  KFEENEY                   650.507.9822         06/05/23  SH_CLERK         3000                       124            20 
+        326 MIROSLAW             KOWALSKI                  KFEENEY                   650.507.9822         06/05/23  MK_MAN          12000                       124            50 
+        327 MIROSLAW             KOWALSKI                  KFEENEY                   650.507.9822         06/05/23  SH_CLERK         4000                       124            50 
+
+ 7 rows selected 
+
+anonymous block completed
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                 EMAIL                     PHONE_NUMBER         HIRE_DATE JOB_ID         SALARY COMMISSION_PCT MANAGER_ID DEPARTMENT_ID
+----------- -------------------- ------------------------- ------------------------- -------------------- --------- ---------- ---------- -------------- ---------- -------------
+        321 MIROSLAW             KOWALSKI                  KFEENEY                   650.507.9822         06/05/23  SH_CLERK         3000                       124            50 
+        322 DOMYSLNY_imie        DOMYSLNY_nazwisko         KFEENEY                   650.507.9822         06/05/23  SH_CLERK         3000                       100            20 
+        323 MIROSLAW             KOWALSKI                  MHARTSTE                  515.123.5555         04/02/17  MK_MAN          13000                       124            50 
+        324 MIROSLAW             KOWALSKI                  KFEENEY                   650.507.9822         06/05/23  SH_CLERK         3000                       100            50 
+        325 MIROSLAW             KOWALSKI                  KFEENEY                   650.507.9822         06/05/23  SH_CLERK         3000                       124            20 
+        326 MIROSLAW             KOWALSKI                  KFEENEY                   650.507.9822         06/05/23  MK_MAN          12000                       124            50 
+        327 MIROSLAW             KOWALSKI                  KFEENEY                   650.507.9822         06/05/23  SH_CLERK         4000                       124            50 
+        328 MIROSLAW             KOWALSKI                  KFEENEY                   650.507.9822         06/05/23  SH_CLERK         4000                       124            50 
+
+ 8 rows selected 
+
+anonymous block completed
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                 EMAIL                     PHONE_NUMBER         HIRE_DATE JOB_ID         SALARY COMMISSION_PCT MANAGER_ID DEPARTMENT_ID
+----------- -------------------- ------------------------- ------------------------- -------------------- --------- ---------- ---------- -------------- ---------- -------------
+        321 MIROSLAW             KOWALSKI                  KFEENEY                   650.507.9822         06/05/23  SH_CLERK         3000                       124            50 
+        322 DOMYSLNY_imie        DOMYSLNY_nazwisko         KFEENEY                   650.507.9822         06/05/23  SH_CLERK         3000                       100            20 
+        323 MIROSLAW             KOWALSKI                  MHARTSTE                  515.123.5555         04/02/17  MK_MAN          13000                       124            50 
+        324 MIROSLAW             KOWALSKI                  KFEENEY                   650.507.9822         06/05/23  SH_CLERK         3000                       100            50 
+        325 MIROSLAW             KOWALSKI                  KFEENEY                   650.507.9822         06/05/23  SH_CLERK         3000                       124            20 
+        326 MIROSLAW             KOWALSKI                  KFEENEY                   650.507.9822         06/05/23  MK_MAN          12000                       124            50 
+        327 MIROSLAW             KOWALSKI                  KFEENEY                   650.507.9822         06/05/23  SH_CLERK         4000                       124            50 
+        328 MIROSLAW             KOWALSKI                  KFEENEY                   650.507.9822         06/05/23  SH_CLERK         4000                       124            50 
+        329 MIROSLAW             KOWALSKI                  KFEENEY                   650.507.9822         04/02/17  SH_CLERK         3000                       124            50 
+
+ 9 rows selected 
+
