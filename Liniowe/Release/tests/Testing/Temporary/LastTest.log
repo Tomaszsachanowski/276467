@@ -1,0 +1,21 @@
+Start testing: Apr 29 11:23 CEST
+----------------------------------------------------------
+1/1 Testing: boostUnitTestsRun
+1/1 Test: boostUnitTestsRun
+Command: "/home/tomeczek/Pulpit/Liniowe/Release/tests/aisdiLinearTests"
+Directory: /home/tomeczek/Pulpit/Liniowe/Release/tests
+"boostUnitTestsRun" start time: Apr 29 11:23 CEST
+Output:
+----------------------------------------------------------
+Running 512 test cases...
+
+*** No errors detected
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Passed.
+"boostUnitTestsRun" end time: Apr 29 11:23 CEST
+"boostUnitTestsRun" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 29 11:23 CEST

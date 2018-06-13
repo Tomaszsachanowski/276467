@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tomeczek/Pulpit/Liniowe/src/LinkedList.h
+cstddef
+-
+initializer_list
+-
+stdexcept
+-
+
+/home/tomeczek/Pulpit/Liniowe/src/Vector.h
+cstddef
+-
+initializer_list
+-
+stdexcept
+-
+cmath
+-
+iostream
+-
+
+/home/tomeczek/Pulpit/Liniowe/src/main.cpp
+cstddef
+-
+cstdlib
+-
+string
+-
+chrono
+-
+fstream
+-
+Vector.h
+/home/tomeczek/Pulpit/Liniowe/src/Vector.h
+LinkedList.h
+/home/tomeczek/Pulpit/Liniowe/src/LinkedList.h
+
