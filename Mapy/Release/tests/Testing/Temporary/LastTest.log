@@ -1,0 +1,63 @@
+Start testing: May 29 16:35 CEST
+----------------------------------------------------------
+1/1 Testing: boostUnitTestsRun
+1/1 Test: boostUnitTestsRun
+Command: "/home/tomeczek/Pulpit/Mapy/Release/tests/aisdiMapsTests"
+Directory: /home/tomeczek/Pulpit/Mapy/Release/tests
+"boostUnitTestsRun" start time: May 29 16:35 CEST
+Output:
+----------------------------------------------------------
+Running 306 test cases...
+/home/tomeczek/Pulpit/Mapy/tests/HashMapTests.cpp(281): error in "GivenEmptyMap_WhenGettingIterators_ThenBeginEqualsEnd<i>": check const_cast<const Map<K>&>(map).begin() == map.end() failed
+/home/tomeczek/Pulpit/Mapy/tests/HashMapTests.cpp(281): error in "GivenEmptyMap_WhenGettingIterators_ThenBeginEqualsEnd<y>": check const_cast<const Map<K>&>(map).begin() == map.end() failed
+/home/tomeczek/Pulpit/Mapy/tests/HashMapTests.cpp(281): error in "GivenEmptyMap_WhenGettingIterators_ThenBeginEqualsEnd<N12_GLOBAL__N_123OperationCountingObjectE>": check const_cast<const Map<K>&>(map).begin() == map.end() failed
+/home/tomeczek/Pulpit/Mapy/tests/HashMapTests.cpp(306): error in "GivenMapWithOnePair_WhenIterating_ThenPairIsReturned<i>": check ++it == map.end() failed
+/home/tomeczek/Pulpit/Mapy/tests/HashMapTests.cpp(306): error in "GivenMapWithOnePair_WhenIterating_ThenPairIsReturned<y>": check ++it == map.end() failed
+/home/tomeczek/Pulpit/Mapy/tests/HashMapTests.cpp(306): error in "GivenMapWithOnePair_WhenIterating_ThenPairIsReturned<N12_GLOBAL__N_123OperationCountingObjectE>": check ++it == map.end() failed
+/home/tomeczek/Pulpit/Mapy/tests/HashMapTests.cpp(320): error in "GivenIterator_WhenPostIncrementing_ThenPreviousPositionIsReturned<i>": check it == map.end() failed
+/home/tomeczek/Pulpit/Mapy/tests/HashMapTests.cpp(320): error in "GivenIterator_WhenPostIncrementing_ThenPreviousPositionIsReturned<y>": check it == map.end() failed
+/home/tomeczek/Pulpit/Mapy/tests/HashMapTests.cpp(320): error in "GivenIterator_WhenPostIncrementing_ThenPreviousPositionIsReturned<N12_GLOBAL__N_123OperationCountingObjectE>": check it == map.end() failed
+/home/tomeczek/Pulpit/Mapy/tests/HashMapTests.cpp(336): error in "GivenIterator_WhenPreIncrementing_ThenNewPositionIsReturned<i>": check it == map.end() failed
+/home/tomeczek/Pulpit/Mapy/tests/HashMapTests.cpp(336): error in "GivenIterator_WhenPreIncrementing_ThenNewPositionIsReturned<y>": check it == map.end() failed
+/home/tomeczek/Pulpit/Mapy/tests/HashMapTests.cpp(336): error in "GivenIterator_WhenPreIncrementing_ThenNewPositionIsReturned<N12_GLOBAL__N_123OperationCountingObjectE>": check it == map.end() failed
+/home/tomeczek/Pulpit/Mapy/tests/HashMapTests.cpp(345): error in "GivenEndIterator_WhenIncrementing_ThenOperationThrows<i>": exception std::out_of_range is expected
+/home/tomeczek/Pulpit/Mapy/tests/HashMapTests.cpp(346): error in "GivenEndIterator_WhenIncrementing_ThenOperationThrows<i>": exception std::out_of_range is expected
+/home/tomeczek/Pulpit/Mapy/tests/HashMapTests.cpp(345): error in "GivenEndIterator_WhenIncrementing_ThenOperationThrows<y>": exception std::out_of_range is expected
+/home/tomeczek/Pulpit/Mapy/tests/HashMapTests.cpp(346): error in "GivenEndIterator_WhenIncrementing_ThenOperationThrows<y>": exception std::out_of_range is expected
+/home/tomeczek/Pulpit/Mapy/tests/HashMapTests.cpp(345): error in "GivenEndIterator_WhenIncrementing_ThenOperationThrows<N12_GLOBAL__N_123OperationCountingObjectE>": exception std::out_of_range is expected
+/home/tomeczek/Pulpit/Mapy/tests/HashMapTests.cpp(346): error in "GivenEndIterator_WhenIncrementing_ThenOperationThrows<N12_GLOBAL__N_123OperationCountingObjectE>": exception std::out_of_range is expected
+/home/tomeczek/Pulpit/Mapy/tests/HashMapTests.cpp(361): error in "GivenEndIterator_WhenDecrementing_ThenIteratorPointsToLastItem<i>": check it == begin(map) failed
+/home/tomeczek/Pulpit/Mapy/tests/HashMapTests.cpp(362): error in "GivenEndIterator_WhenDecrementing_ThenIteratorPointsToLastItem<i>": check it->first == 1 failed [0 != 1]
+/home/tomeczek/Pulpit/Mapy/tests/HashMapTests.cpp(361): error in "GivenEndIterator_WhenDecrementing_ThenIteratorPointsToLastItem<y>": check it == begin(map) failed
+/home/tomeczek/Pulpit/Mapy/tests/HashMapTests.cpp(362): error in "GivenEndIterator_WhenDecrementing_ThenIteratorPointsToLastItem<y>": check it->first == 1 failed [244813135872 != 1]
+/home/tomeczek/Pulpit/Mapy/tests/HashMapTests.cpp(361): error in "GivenEndIterator_WhenDecrementing_ThenIteratorPointsToLastItem<N12_GLOBAL__N_123OperationCountingObjectE>": check it == begin(map) failed
+/home/tomeczek/Pulpit/Mapy/tests/HashMapTests.cpp(362): error in "GivenEndIterator_WhenDecrementing_ThenIteratorPointsToLastItem<N12_GLOBAL__N_123OperationCountingObjectE>": check it->first == 1 failed [<0> != 1]
+/home/tomeczek/Pulpit/Mapy/tests/HashMapTests.cpp(376): error in "GivenIterator_WhenPreDecrementing_ThenNewIteratorValueIsReturned<i>": check it->first == 1 failed [0 != 1]
+/home/tomeczek/Pulpit/Mapy/tests/HashMapTests.cpp(376): error in "GivenIterator_WhenPreDecrementing_ThenNewIteratorValueIsReturned<y>": check it->first == 1 failed [244813135872 != 1]
+/home/tomeczek/Pulpit/Mapy/tests/HashMapTests.cpp(376): error in "GivenIterator_WhenPreDecrementing_ThenNewIteratorValueIsReturned<N12_GLOBAL__N_123OperationCountingObjectE>": check it->first == 1 failed [<0> != 1]
+/home/tomeczek/Pulpit/Mapy/tests/HashMapTests.cpp(390): error in "GivenIterator_WhenPostDecrementing_ThenOldIteratorValueIsReturned<i>": check it->first == 1 failed [0 != 1]
+/home/tomeczek/Pulpit/Mapy/tests/HashMapTests.cpp(390): error in "GivenIterator_WhenPostDecrementing_ThenOldIteratorValueIsReturned<y>": check it->first == 1 failed [244813135872 != 1]
+/home/tomeczek/Pulpit/Mapy/tests/HashMapTests.cpp(390): error in "GivenIterator_WhenPostDecrementing_ThenOldIteratorValueIsReturned<N12_GLOBAL__N_123OperationCountingObjectE>": check it->first == 1 failed [<0> != 1]
+/home/tomeczek/Pulpit/Mapy/tests/HashMapTests.cpp(399): error in "GivenBeginIterator_WhenDecrementing_ThenOperationThrows<i>": exception std::out_of_range is expected
+/home/tomeczek/Pulpit/Mapy/tests/HashMapTests.cpp(400): error in "GivenBeginIterator_WhenDecrementing_ThenOperationThrows<i>": exception std::out_of_range is expected
+/home/tomeczek/Pulpit/Mapy/tests/HashMapTests.cpp(399): error in "GivenBeginIterator_WhenDecrementing_ThenOperationThrows<y>": exception std::out_of_range is expected
+/home/tomeczek/Pulpit/Mapy/tests/HashMapTests.cpp(400): error in "GivenBeginIterator_WhenDecrementing_ThenOperationThrows<y>": exception std::out_of_range is expected
+/home/tomeczek/Pulpit/Mapy/tests/HashMapTests.cpp(399): error in "GivenBeginIterator_WhenDecrementing_ThenOperationThrows<N12_GLOBAL__N_123OperationCountingObjectE>": exception std::out_of_range is expected
+/home/tomeczek/Pulpit/Mapy/tests/HashMapTests.cpp(400): error in "GivenBeginIterator_WhenDecrementing_ThenOperationThrows<N12_GLOBAL__N_123OperationCountingObjectE>": exception std::out_of_range is expected
+/home/tomeczek/Pulpit/Mapy/tests/HashMapTests.cpp(411): error in "GivenEndIterator_WhenDereferencing_ThenOperationThrows<i>": exception std::out_of_range is expected
+/home/tomeczek/Pulpit/Mapy/tests/HashMapTests.cpp(413): error in "GivenEndIterator_WhenDereferencing_ThenOperationThrows<i>": exception std::out_of_range is expected
+/home/tomeczek/Pulpit/Mapy/tests/HashMapTests.cpp(411): error in "GivenEndIterator_WhenDereferencing_ThenOperationThrows<y>": exception std::out_of_range is expected
+/home/tomeczek/Pulpit/Mapy/tests/HashMapTests.cpp(413): error in "GivenEndIterator_WhenDereferencing_ThenOperationThrows<y>": exception std::out_of_range is expected
+/home/tomeczek/Pulpit/Mapy/tests/HashMapTests.cpp(411): error in "GivenEndIterator_WhenDereferencing_ThenOperationThrows<N12_GLOBAL__N_123OperationCountingObjectE>": exception std::out_of_range is expected
+/home/tomeczek/Pulpit/Mapy/tests/HashMapTests.cpp(413): error in "GivenEndIterator_WhenDereferencing_ThenOperationThrows<N12_GLOBAL__N_123OperationCountingObjectE>": exception std::out_of_range is expected
+
+*** 42 failures detected in test suite "aisdi_maps_tests"
+<end of output>
+Test time =   0.19 sec
+----------------------------------------------------------
+Test Failed.
+"boostUnitTestsRun" end time: May 29 16:35 CEST
+"boostUnitTestsRun" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 29 16:35 CEST
